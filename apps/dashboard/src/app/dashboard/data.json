@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Customer Support Bot",
+    "type": "Support",
+    "status": "Active",
+    "conversations": 247,
+    "successRate": 89,
+    "lastUpdated": "2025-07-30",
+    "creator": "John Smith"
+  },
+  {
+    "id": 2,
+    "name": "Sales Assistant",
+    "type": "Sales",
+    "status": "Active",
+    "conversations": 156,
+    "successRate": 94,
+    "lastUpdated": "2025-07-29",
+    "creator": "Sarah Johnson"
+  },
+  {
+    "id": 3,
+    "name": "FAQ Bot",
+    "type": "Information",
+    "status": "Active",
+    "conversations": 89,
+    "successRate": 96,
+    "lastUpdated": "2025-07-28",
+    "creator": "Mike Chen"
+  },
+  {
+    "id": 4,
+    "name": "Onboarding Assistant",
+    "type": "Training",
+    "status": "Draft",
+    "conversations": 12,
+    "successRate": 85,
+    "lastUpdated": "2025-07-27",
+    "creator": "Lisa Wong"
+  },
+  {
+    "id": 5,
+    "name": "Technical Support",
+    "type": "Support",
+    "status": "Active",
+    "conversations": 203,
+    "successRate": 87,
+    "lastUpdated": "2025-07-30",
+    "creator": "David Kim"
+  },
+  {
+    "id": 6,
+    "name": "Lead Qualification Bot",
+    "type": "Sales",
+    "status": "Active",
+    "conversations": 78,
+    "successRate": 91,
+    "lastUpdated": "2025-07-29",
+    "creator": "Emma Davis"
+  },
+  {
+    "id": 7,
+    "name": "Booking Assistant",
+    "type": "Scheduling",
+    "status": "Testing",
+    "conversations": 45,
+    "successRate": 88,
+    "lastUpdated": "2025-07-28",
+    "creator": "Alex Thompson"
+  },
+  {
+    "id": 8,
+    "name": "Product Recommendation Bot",
+    "type": "Sales",
+    "status": "Active",
+    "conversations": 134,
+    "successRate": 92,
+    "lastUpdated": "2025-07-30",
+    "creator": "Nina Patel"
+  },
+  {
+    "id": 9,
+    "name": "Feedback Collector",
+    "type": "Survey",
+    "status": "Paused",
+    "conversations": 67,
+    "successRate": 83,
+    "lastUpdated": "2025-07-26",
+    "creator": "James Wilson"
+  },
+  {
+    "id": 10,
+    "name": "HR Assistant",
+    "type": "Internal",
+    "status": "Active",
+    "conversations": 112,
+    "successRate": 90,
+    "lastUpdated": "2025-07-29",
+    "creator": "Maria Garcia"
+  },
+  {
+    "id": 11,
+    "name": "Language Learning Bot",
+    "type": "Education",
+    "status": "Active",
+    "conversations": 189,
+    "successRate": 95,
+    "lastUpdated": "2025-07-30",
+    "creator": "Raj Patel"
+  },
+  {
+    "id": 12,
+    "name": "Order Tracking Bot",
+    "type": "Support",
+    "status": "Active",
+    "conversations": 298,
+    "successRate": 93,
+    "lastUpdated": "2025-07-31",
+    "creator": "Sophia Martinez"
+  },
+  {
+    "id": 13,
+    "name": "Event Information Bot",
+    "type": "Information",
+    "status": "Draft",
+    "conversations": 23,
+    "successRate": 79,
+    "lastUpdated": "2025-07-25",
+    "creator": "Thomas Wilson"
+  },
+  {
+    "id": 14,
+    "name": "Multi-language Support",
+    "type": "Support",
+    "status": "Testing",
+    "conversations": 67,
+    "successRate": 86,
+    "lastUpdated": "2025-07-28",
+    "creator": "Leila Ahmadi"
+  },
+  {
+    "id": 15,
+    "name": "Price Quote Bot",
+    "type": "Sales",
+    "status": "Active",
+    "conversations": 145,
+    "successRate": 88,
+    "lastUpdated": "2025-07-30",
+    "creator": "Carlos Rodriguez"
+  },
+  {
+    "id": 16,
+    "name": "Complaint Handler",
+    "type": "Support",
+    "status": "Active",
+    "conversations": 87,
+    "successRate": 82,
+    "lastUpdated": "2025-07-29",
+    "creator": "Maya Johnson"
+  },
+  {
+    "id": 17,
+    "name": "Menu Assistant",
+    "type": "Information",
+    "status": "Active",
+    "conversations": 234,
+    "successRate": 97,
+    "lastUpdated": "2025-07-31",
+    "creator": "Daniel Park"
+  },
+  {
+    "id": 18,
+    "name": "Appointment Scheduler",
+    "type": "Scheduling",
+    "status": "Active",
+    "conversations": 176,
+    "successRate": 91,
+    "lastUpdated": "2025-07-30",
+    "creator": "Priya Singh"
+  },
+  {
+    "id": 19,
+    "name": "Product Finder",
+    "type": "Sales",
+    "status": "Active",
+    "conversations": 198,
+    "successRate": 89,
+    "lastUpdated": "2025-07-29",
+    "creator": "Michael Chen"
+  },
+  {
+    "id": 20,
+    "name": "Weather Info Bot",
+    "type": "Information",
+    "status": "Active",
+    "conversations": 456,
+    "successRate": 98,
+    "lastUpdated": "2025-07-31",
+    "creator": "Sarah Chen"
+  }
+]
